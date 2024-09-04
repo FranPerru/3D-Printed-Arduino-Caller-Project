@@ -1,5 +1,6 @@
 # 3D-Printed-Arduino-Caller-Project
 *An Arduino-based caller with 3D printed parts and LED digits.*
+
 *Project Overview*
 This project involves creating a call panel for a system with 10 positions (spots), each represented by a button. The goal is to display the number of the position on a visual output when its corresponding button is pressed. The project utilizes two Arduino boards to manage the hardware components efficiently. One Arduino handles the button inputs, while the other controls a series of 14 LEDs arranged to display numbers from 00 to 99.
 
@@ -11,10 +12,12 @@ This project involves creating a call panel for a system with 10 positions (spot
 Jump wires and breadboards for prototyping
 LCD Display (Optional) if an alternative display method is preferred
 3D Printed Frame for housing the LEDs and buttons, with black PLA for the frame and transparent PLA for the LED holders
+
 *Functionality*
 Button Input: Each of the 10 buttons is associated with a specific position. When a button is pressed, it sends a signal to the Arduino controlling the LEDs.
 LED Display: The second Arduino receives the signal and illuminates the corresponding LEDs to display the position number on the panel.
 Communication: The two Arduinos communicate via serial communication, ensuring that button presses on the first Arduino result in the correct display on the second Arduino.
+
 *Software*
 The project includes Arduino sketches for both boards:
 
