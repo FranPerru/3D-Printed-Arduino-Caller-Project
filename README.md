@@ -35,6 +35,6 @@ Future Enhancements
 Wireless Communication: Implementing wireless communication between the two Arduinos could make the system more flexible.
 Advanced Display Options: Integrating more advanced displays, such as a dot-matrix LED display or a TFT screen, for more sophisticated number presentation.
 Integration with Other Systems: Expand the system to interface with a computer or mobile app for remote control and monitoring.
-
+![image](https://github.com/user-attachments/assets/02f01067-9eb9-412e-8ac3-3f309fbb3bba)
 ![WhatsApp Image 2024-11-12 at 10 56 53](https://github.com/user-attachments/assets/294098b0-6983-4476-9ebe-7789b6eeb421)
 
